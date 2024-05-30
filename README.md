@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Movie-Recommendation-System repository! This repository contains various machine learning model implementations. It serves as a comprehensive guide for those who are looking to understand and apply different machine-learning algorithms and techniques.
+Welcome to the Movie Recommendation System! This project harnesses the power of machine learning to provide personalized movie suggestions tailored to your tastes. By analyzing user preferences and viewing history, our system offers accurate and relevant recommendations to enhance your movie-watching experience.
 
 
 ## Overview
